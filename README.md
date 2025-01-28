@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ezCoder0
-- 👀 I’m interested in becoming Fullstack Developer
+- 👀 I’m interested in Fullstack Developing
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Frontend developing
 - 📫 How to reach me: ezCoder0011@gmail.com
